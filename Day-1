@@ -4,4 +4,6 @@ The scripts of automation testing can be reused.
 Types of Automation Testing:
 1. Regression testing
 The process of testing the software after new features are added is called regression testing.
-it is performed when:
+it is performed when: environment is changed, code is changed: new features added, requirements changed, some issues/bug/defect fixed.
+2. Smoke testing
+testing stability of the system.
